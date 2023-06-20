@@ -5,7 +5,7 @@ document.getElementById("promo_submit").addEventListener("click", function (even
 
     const name_lid = (document.getElementById("input-name") as HTMLInputElement).value;
     const phone: string = (document.getElementById("input-tel") as HTMLInputElement).value;
-    const email: string = (document.getElementById("input-mail") as HTMLInputElement).value;
+    const email: string = (document.getElementById("input-mail-req") as HTMLInputElement).value;
 
     console.log(name_lid)
     console.log(phone)
@@ -26,11 +26,11 @@ document.getElementById("promo_submit").addEventListener("click", function (even
                     VALUE: email
                 }
             ],
-            ASSIGNED_BY_ID: 8,
+            ASSIGNED_BY_ID: 1372,
             SOURCE_ID: 2,
             SOURCE_DESCRIPTION: 'Форма Успейте получить бесплатное занятие',
             UTM_SOURCE: 'Тестовый источник',
-            UF_CRM_1671605683: 'klgd.cifra.digital'
+            UF_CRM_1671605683: 'kazan.cifra.digital'
         }
     };
 
