@@ -1,0 +1,1192 @@
+Uri: https://cdn.callibri.ru/callibri.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\callibri.js
+Content Type: text/javascript
+
+Uri: https://klgd.cifra.digital/
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\index.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/about/
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\about\index.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/bitrix/cache/css/sk/public/page_30f417b109479e48ca2f208868a84078/page_30f417b109479e48ca2f208868a84078_v1.css?16866252421068
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\cache\css\sk\public\page_30f417b109479e48ca2f208868a84078\page_30f417b109479e48ca2f208868a84078_v1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/cache/css/sk/public/page_67dee2f7f45b8b6da774c342005bbf45/page_67dee2f7f45b8b6da774c342005bbf45_v1.css?16866283281066
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\cache\css\sk\public\page_67dee2f7f45b8b6da774c342005bbf45\page_67dee2f7f45b8b6da774c342005bbf45_v1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/cache/css/sk/public/page_726b46765b00015e5bdf86fc3dd3bf9c/page_726b46765b00015e5bdf86fc3dd3bf9c_v1.css?1686633260368
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\cache\css\sk\public\page_726b46765b00015e5bdf86fc3dd3bf9c\page_726b46765b00015e5bdf86fc3dd3bf9c_v1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/cache/css/sk/public/page_7cbfeba14c4c9b0d14a00329110dbe07/page_7cbfeba14c4c9b0d14a00329110dbe07_v1.css?1686625308355
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\cache\css\sk\public\page_7cbfeba14c4c9b0d14a00329110dbe07\page_7cbfeba14c4c9b0d14a00329110dbe07_v1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/cache/css/sk/public/page_cd5da6c4e40331a2c6b785c0bbbce77f/page_cd5da6c4e40331a2c6b785c0bbbce77f_v1.css?1686628188346
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\cache\css\sk\public\page_cd5da6c4e40331a2c6b785c0bbbce77f\page_cd5da6c4e40331a2c6b785c0bbbce77f_v1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/cache/css/sk/public/page_f0ffb1d0b441db584670de683e8fc2e2/page_f0ffb1d0b441db584670de683e8fc2e2_v1.css?1686636771702
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\cache\css\sk\public\page_f0ffb1d0b441db584670de683e8fc2e2\page_f0ffb1d0b441db584670de683e8fc2e2_v1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/cache/css/sk/public/template_d2aa079453680dac50fb2b53cdd805d2/template_d2aa079453680dac50fb2b53cdd805d2_v1.css?16866252425089
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\cache\css\sk\public\template_d2aa079453680dac50fb2b53cdd805d2\template_d2aa079453680dac50fb2b53cdd805d2_v1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/images/intranet/intranet-mail-popup-arrows.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\images\intranet\intranet-mail-popup-arrows.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/bitrix/js/intranet/intranet-common.min.css?166930934261199
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\intranet\intranet-common.min.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/core.min.js?1673860334220366
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\core.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/core_decl.min.js?16630721821466
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\core_decl.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/core_ui_date.min.js?16630721823522
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\core_ui_date.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/core_ui_factory.min.js?16630721821683
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\core_ui_factory.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/core_ui_select.min.js?166307218216543
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\core_ui_select.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/css/core_ui_control.min.css?16693093211789
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\css\core_ui_control.min.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/css/core_ui_date.min.css?1663072182593
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\css\core_ui_date.min.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/css/core_ui_select.min.css?16693093218667
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\css\core_ui_select.min.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/images/controls-sprite.png?1
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\images\controls-sprite.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/images/controls-sprite.png?2
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\images\controls-sprite-1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/images/popup/upload-waiting.gif
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\images\popup\upload-waiting.gif
+Content Type: image/gif
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/core/images/ui/main-ui-control.svg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\core\images\ui\main-ui-control.svg
+Content Type: image/svg+xml
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/jquery/jquery-1.12.4.min.js?166367322497163
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\jquery\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/jquery/jquery-2.2.4.min.js?166367322485578
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\jquery\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/popup/dist/main.popup.bundle.min.css?167386033425089
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\popup\dist\main.popup.bundle.min.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/js/main/popup/dist/main.popup.bundle.min.js?167059424965492
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\main\popup\dist\main.popup.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/pull/client/pull.client.min.js?167059425448293
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\pull\client\pull.client.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/pull/protobuf/model.min.js?166307229214190
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\pull\protobuf\model.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/pull/protobuf/protobuf.min.js?166307229276433
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\pull\protobuf\protobuf.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/rest/client/rest.client.min.js?16630723019240
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\rest\client\rest.client.min.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?167386035022029
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\design-tokens\dist\ui.design-tokens.min.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-bold.ttf
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-bold.woff
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-bold.woff
+Content Type: font/woff
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-light.ttf
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-light.woff
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-light.woff
+Content Type: font/woff
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-regular.ttf
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-regular.woff
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-regular.woff
+Content Type: font/woff
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-semibold.ttf
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-semibold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/opensans-semibold.woff
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\opensans-semibold.woff
+Content Type: font/woff
+
+Uri: https://klgd.cifra.digital/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16693093112320
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\bitrix\js\ui\fonts\opensans\ui.font.opensans.min.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/contacts/
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\contacts\index.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/contacts/+7 (905) 245 5005
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\contacts\ 7 (905) 245 5005.html
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/childrens/
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\childrens\index.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=12_14_Senior
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-6.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=7_8_let_junior
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-4.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=9_11_Middle
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-5.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=dizajn_web_3d
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-3.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=letnie-kanikyli
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=licey_dizajn
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-8.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=licey_programmirovanie
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-7.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=otkrytyy-urok-
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-2.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/courses/detail/?c=programmirovanie
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\courses\detail\index-1.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/events/
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\events\index.htm
+Content Type: text/html
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/404.add6fd9d.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\404.add6fd9d.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/about.1db0579f.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\about.1db0579f.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/contacts.da98ede8.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\contacts.da98ede8.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/courses.2411296f.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\courses.2411296f.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_designer.7ddf346c.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_designer.7ddf346c.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_junior.11bf8a7a.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_junior.11bf8a7a.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_marketing.10e7ac22.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_marketing.10e7ac22.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_middle.470e91c5.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_middle.470e91c5.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_programmer.22e1c237.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_programmer.22e1c237.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_programming.b273c561.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_programming.b273c561.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_senior.e38eec76.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_senior.e38eec76.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/course_web3d.6be8dc16.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\course_web3d.6be8dc16.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/events.a78f004b.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\events.a78f004b.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.099955ed.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.099955ed.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.0ab0f4ae.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.0ab0f4ae.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.0c419990.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.0c419990.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.19fe7456.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.19fe7456.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.22a1a593.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.22a1a593.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.25451716.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.25451716.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.3795f3de.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.3795f3de.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.4bfd6df9.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.4bfd6df9.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.5719a049.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.5719a049.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.83cea07c.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.83cea07c.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.8aa57dd2.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.8aa57dd2.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.be58f32f.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.be58f32f.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.bee46917.css?v0.3
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.bee46917.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.ed5d8942.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.ed5d8942.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/index.f1ef43a7.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\index.f1ef43a7.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/navigation.e0d701c6.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\navigation.e0d701c6.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/not_found.33ca55d1.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\not_found.33ca55d1.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/pagination.1f52dca1.css
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\pagination.1f52dca1.css
+Content Type: text/css
+
+Uri: https://klgd.cifra.digital/local/front/dist/assets/polyfills-legacy.f448c6e7.js
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\assets\polyfills-legacy.f448c6e7.js
+Content Type: application/javascript
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/bg_discount_img_first.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\bg_discount_img_first.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/bg_discount_img_second.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\bg_discount_img_second.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/000101010010.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\000101010010.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/123131313.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\123131313.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/camera.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\camera.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/circ.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\circ.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/circ2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\circ2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/cloud-girl.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\cloud-girl.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/css.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\css.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/designer.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\designer.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/eng-2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\eng-2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/eng.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\eng.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/girl_laptop.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\girl_laptop.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/js200.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\js200.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/objects.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\objects.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/panel1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\panel1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/panel2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\panel2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/php3.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\php3.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/prog1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\prog1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/search.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\search.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/skobki.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\skobki.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/courses/tag.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\courses\tag.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/fingers.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\fingers.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/girl2_2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\girl2_2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/hand.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\hand.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/head_img.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\head_img.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/heart.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\heart.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/notebook_img.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\notebook_img.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner1c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner1c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner2c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner2c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner3c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner3c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner4c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner4c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner5c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner5c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner6c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner6c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner7c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner7c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/images/partner8c.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\images\partner8c.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/front/dist/svg/arrow_right-blue.svg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\svg\arrow_right-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://klgd.cifra.digital/local/front/dist/svg/arrow_right-red.svg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\svg\arrow_right-red.svg
+Content Type: image/svg+xml
+
+Uri: https://klgd.cifra.digital/local/front/dist/svg/arrow_right.svg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\front\dist\svg\arrow_right.svg
+Content Type: image/svg+xml
+
+Uri: https://klgd.cifra.digital/local/templates/public/components/bitrix/menu/bottomFirstMenu/images/left_menu_bg.gif
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\templates\public\components\bitrix\menu\bottomFirstMenu\images\left_menu_bg.gif
+Content Type: image/gif
+
+Uri: https://klgd.cifra.digital/local/templates/public/components/bitrix/menu/mainMenu/images/left_menu_bg.gif
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\templates\public\components\bitrix\menu\mainMenu\images\left_menu_bg.gif
+Content Type: image/gif
+
+Uri: https://klgd.cifra.digital/local/templates/public/img/auditory.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\templates\public\img\auditory.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/templates/public/img/children.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\templates\public\img\children.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/templates/public/img/girl.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\templates\public\img\girl.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/local/templates/public/img/mans.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\local\templates\public\img\mans.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/02d/a5vch0cr10tp8o2brn2bogactghf58vp/Без названия (42).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\02d\a5vch0cr10tp8o2brn2bogactghf58vp\Без названия (42).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/039/29g0aoc1n30tpy026ygp1tvoj100hkxk/Влад.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\039\29g0aoc1n30tpy026ygp1tvoj100hkxk\Влад.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/057/sp9prito74wgyag472d8bbr93y7fjckz/partners1 1-6.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\057\sp9prito74wgyag472d8bbr93y7fjckz\partners1 1-6.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/05f/y6wz878spknsrp3afowwmca2mupm051b/partners1 1-5.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\05f\y6wz878spknsrp3afowwmca2mupm051b\partners1 1-5.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/09f/vppkmycf67s5j7odedymnnfbx3z1rr6f/hat.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\09f\vppkmycf67s5j7odedymnnfbx3z1rr6f\hat.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/0a6/kckm66rgbbg4vq2pvlbj3nktu5kcz7kx/python.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\0a6\kckm66rgbbg4vq2pvlbj3nktu5kcz7kx\python.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/0aa/oihx0b0v8lb6s12nahphre43v3hz2nbp/2023-03-16 14-30-05 (220).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\0aa\oihx0b0v8lb6s12nahphre43v3hz2nbp\2023-03-16 14-30-05 (220).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/0c1/rhh9n2dbv5wgvk8nq0qcn63kq7lvp7id/Kotlin_Icon.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\0c1\rhh9n2dbv5wgvk8nq0qcn63kq7lvp7id\Kotlin_Icon.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/0e9/thigl0mfoydk35zzz5jzpt3u6gg4f160/дети (7).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\0e9\thigl0mfoydk35zzz5jzpt3u6gg4f160\дети (7).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/12f/knv3ae3717ydn0g6brsmwve7egud460g/дизайнеры (5).jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\12f\knv3ae3717ydn0g6brsmwve7egud460g\дизайнеры (5).jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/162/02arnkkt58ermsyvnwsve3z74goc7d7u/f1d2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\162\02arnkkt58ermsyvnwsve3z74goc7d7u\f1d2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/169/7bfb36t5t14u41h83xi0tqr2ws5vfjmu/files.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\169\7bfb36t5t14u41h83xi0tqr2ws5vfjmu\files.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/169/9zdfrw7zks5qj0wq2jg41vjrvssp2mrj/lego.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\169\9zdfrw7zks5qj0wq2jg41vjrvssp2mrj\lego.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/189/gq9j4g7bh0yjpuv11qaddk043rvmdv4m/белая точка.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\189\gq9j4g7bh0yjpuv11qaddk043rvmdv4m\белая точка.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/190/6hup0togm24rwagj2bkrvzftkke1xxn2/Tilda_Logo.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\190\6hup0togm24rwagj2bkrvzftkke1xxn2\Tilda_Logo.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/199/y3il2eyhwuuj285tm8v3lom3f91sklem/Выписка из реестра лицензий № Л035-01236-39-00625324.pdf
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\199\y3il2eyhwuuj285tm8v3lom3f91sklem\Выписка из реестра лицензий № Л035-01236-39-00625324.pdf
+Content Type: application/pdf
+
+Uri: https://klgd.cifra.digital/upload/iblock/1b6/y37hx09p06frz1lt59flvj0ufpezuhga/022.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\1b6\y37hx09p06frz1lt59flvj0ufpezuhga\022.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/1cf/lh62wi0e2vbzvtw6rlvlk9e5h49y9dte/2023-03-16 16-06-22 (282).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\1cf\lh62wi0e2vbzvtw6rlvlk9e5h49y9dte\2023-03-16 16-06-22 (282).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/214/g6vxp1elzcm672wyp4mkrxsjtjiri337/дети (8).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\214\g6vxp1elzcm672wyp4mkrxsjtjiri337\дети (8).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/21d/g8wjs7mh5co7gu13k4gct0mvm5cwuf0d/дизайнеры (2).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\21d\g8wjs7mh5co7gu13k4gct0mvm5cwuf0d\дизайнеры (2).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/22b/a7bu5cm97uzliim0ogxs808yk3cfiii0/Без названия (9).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\22b\a7bu5cm97uzliim0ogxs808yk3cfiii0\Без названия (9).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/246/7hanjz6itoydiyv1almaz6yrd1byg0vg/дети1(5).jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\246\7hanjz6itoydiyv1almaz6yrd1byg0vg\дети1(5).jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/25e/pyvz3uhyjjoy0d108cc2cz6nnc8munvx/shutterstock_1933960109.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\25e\pyvz3uhyjjoy0d108cc2cz6nnc8munvx\shutterstock_1933960109.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/26f/asjcboybl4b8sh55i13op5tknyw575ts/Аня-Recovered.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\26f\asjcboybl4b8sh55i13op5tknyw575ts\Аня-Recovered.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/28d/mi41ewkcg7lz9pfu0000lorxmv9bxu8b/дизайнеры (5).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\28d\mi41ewkcg7lz9pfu0000lorxmv9bxu8b\дизайнеры (5).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/290/hcw3l45az5uz2m2qx82qpm2pl42ynqtn/Visual_Studio_Code_1.35_icon.svg.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\290\hcw3l45az5uz2m2qx82qpm2pl42ynqtn\Visual_Studio_Code_1.35_icon.svg.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/294/z1nleoq39y6nip8s0bdcvsfw30btoio6/3d-icon-1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\294\z1nleoq39y6nip8s0bdcvsfw30btoio6\3d-icon-1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/298/mxr5gbvkcvhn187rip4zoh1yc5keizc7/star.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\298\mxr5gbvkcvhn187rip4zoh1yc5keizc7\star.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/29f/a30wtea6god6czttegtoc4ob63nj3n9y/logos_python.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\29f\a30wtea6god6czttegtoc4ob63nj3n9y\logos_python.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/2eb/bjwoqp0kizu5x02iaqfdde1sxgm3cji9/Ai.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\2eb\bjwoqp0kizu5x02iaqfdde1sxgm3cji9\Ai.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/2fd/8ro2ypodueox2rjtnvsoi9nr2wofx44q/дети (91).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\2fd\8ro2ypodueox2rjtnvsoi9nr2wofx44q\дети (91).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/308/e6m8cfg391u6ebm5pww4d04za64v53sl/redshift.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\308\e6m8cfg391u6ebm5pww4d04za64v53sl\redshift.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/31c/az28dof1rpg7g0sl6f8l6uslxw0kuvh1/Без названия (37).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\31c\az28dof1rpg7g0sl6f8l6uslxw0kuvh1\Без названия (37).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/331/e7rxaibfy8j4gh6ggaedyym474ghuxwi/Без названия (41).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\331\e7rxaibfy8j4gh6ggaedyym474ghuxwi\Без названия (41).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/35b/4et21ke1lx931qifa79qpiwyt8dr4qqs/tinkercad-logo.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\35b\4et21ke1lx931qifa79qpiwyt8dr4qqs\tinkercad-logo.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/366/lyzxotyrk777iwzggm9ji1gi0z3uvvsw/01.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\366\lyzxotyrk777iwzggm9ji1gi0z3uvvsw\01.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/36d/4ql6e2kv7k6g16cliats8wws0019sgsk/Screenshot_4.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\36d\4ql6e2kv7k6g16cliats8wws0019sgsk\Screenshot_4.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/394/do9t480c25c8oqjr63eofru6i953hk39/Влад.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\394\do9t480c25c8oqjr63eofru6i953hk39\Влад.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/3dc/ss3j8iqw7vcvqp26v5t94g7e9zhie2tp/partners1 1-3.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\3dc\ss3j8iqw7vcvqp26v5t94g7e9zhie2tp\partners1 1-3.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/3eb/5fa3vqhah2ji9p3j1ijrlbpxlaoan9yg/shutterstock_648047014.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\3eb\5fa3vqhah2ji9p3j1ijrlbpxlaoan9yg\shutterstock_648047014.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/40d/9hw16b2mlb8uoig3z9mxn4i0wo8n2p5r/белая точка.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\40d\9hw16b2mlb8uoig3z9mxn4i0wo8n2p5r\белая точка.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/468/pajckgquy2vaem0gkage320tlknfvc1l/2023-03-16 16-06-22 (138).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\468\pajckgquy2vaem0gkage320tlknfvc1l\2023-03-16 16-06-22 (138).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/47e/7ktwthkgp4gpdyawiwcwmnh0pyzsw6do/дизайнеры (3).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\47e\7ktwthkgp4gpdyawiwcwmnh0pyzsw6do\дизайнеры (3).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/484/0bqrvx8y420704t5ga3nfnsg60iqj3jd/2023-03-16 14-30-05 (216).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\484\0bqrvx8y420704t5ga3nfnsg60iqj3jd\2023-03-16 14-30-05 (216).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/4a1/px0uy1rvyux0j4jr1p0foom4pdiml8hy/2023-03-16 16-06-22 (286).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\4a1\px0uy1rvyux0j4jr1p0foom4pdiml8hy\2023-03-16 16-06-22 (286).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/50a/d5j6as8foh10c3737jk0k9yylgh75ga8/sketchup.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\50a\d5j6as8foh10c3737jk0k9yylgh75ga8\sketchup.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/538/bc03jpxtc16k2q5huusnzhbbxlnvblob/Без названия (14).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\538\bc03jpxtc16k2q5huusnzhbbxlnvblob\Без названия (14).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/59d/jzdmez0lpj01gunoubm6arlngl2mwfat/дети(5).jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\59d\jzdmez0lpj01gunoubm6arlngl2mwfat\дети(5).jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/5aa/rnoj8zaim78kpkd7u2xkejgxb0imw4dc/Без названия (39).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\5aa\rnoj8zaim78kpkd7u2xkejgxb0imw4dc\Без названия (39).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/5ac/1ymlzm40ae06aa1msyg3mw33gcgkr287/Без названия.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\5ac\1ymlzm40ae06aa1msyg3mw33gcgkr287\Без названия.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/5b8/sf1tnsg4mq1bcm3sfaw8cw1pipr8coek/Без названия (34).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\5b8\sf1tnsg4mq1bcm3sfaw8cw1pipr8coek\Без названия (34).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/5ba/a5edq2m0y5cf1abw4ek9j6x1mz1diabo/c-logo-icon-18.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\5ba\a5edq2m0y5cf1abw4ek9j6x1mz1diabo\c-logo-icon-18.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/5ec/0syrdlj41ggahux4fn32xau6d8yf9u4t/Без названия (11).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\5ec\0syrdlj41ggahux4fn32xau6d8yf9u4t\Без названия (11).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/60a/a46r4meodl8zm9e5gd8jcdrtmz2r4fi6/Без названия (12).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\60a\a46r4meodl8zm9e5gd8jcdrtmz2r4fi6\Без названия (12).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/628/j0y3e20jwh2cfeusmm3ueltor37da89o/Без названия (7).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\628\j0y3e20jwh2cfeusmm3ueltor37da89o\Без названия (7).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/635/i5h2do4e9jwga54akksn1s5hk587syhp/photo_2022-12-06_16-04-57.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\635\i5h2do4e9jwga54akksn1s5hk587syhp\photo_2022-12-06_16-04-57.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/649/jh5qjnx8j4v08bj510j3mpvtouyxcujz/bg3.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\649\jh5qjnx8j4v08bj510j3mpvtouyxcujz\bg3.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/64b/rd8e086bjeyk2fvw7m6aqm3eqyxluvxb/Без названия (13).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\64b\rd8e086bjeyk2fvw7m6aqm3eqyxluvxb\Без названия (13).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/658/ah99dakxytfl454k2zq8gs5hi4fhks6p/photo_2023-03-19_19-47-07.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\658\ah99dakxytfl454k2zq8gs5hi4fhks6p\photo_2023-03-19_19-47-07.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/682/htzt27av7pelt8x2ub8vpebebqn05f9g/about2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\682\htzt27av7pelt8x2ub8vpebebqn05f9g\about2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/692/jea6ht6v1fag3orw09i8vwai4bhcn1ud/Без названия (4).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\692\jea6ht6v1fag3orw09i8vwai4bhcn1ud\Без названия (4).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/692/lrmzwaqbot1ig4l0utpbjfikq8qvn83r/bg2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\692\lrmzwaqbot1ig4l0utpbjfikq8qvn83r\bg2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/694/l3kln8z6lvskisa45vkr2xisjjsnodet/Без названия (8).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\694\l3kln8z6lvskisa45vkr2xisjjsnodet\Без названия (8).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/6bb/xhyi7usmm8xzrpp102lqyvj1vdjvczgp/дети (1).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\6bb\xhyi7usmm8xzrpp102lqyvj1vdjvczgp\дети (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/6c0/0ryudphd8x0s1evqsakuhwbm9nobtd32/Без названия (3).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\6c0\0ryudphd8x0s1evqsakuhwbm9nobtd32\Без названия (3).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/6cd/nwfcpeggwq34qutu07vlw1xyo402zxyc/Без названия (30).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\6cd\nwfcpeggwq34qutu07vlw1xyo402zxyc\Без названия (30).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/6f1/swi2yqotja3jxd88bpyh9bex6pbzzksx/15-2-minecraft-logo-png.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\6f1\swi2yqotja3jxd88bpyh9bex6pbzzksx\15-2-minecraft-logo-png.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/717/0ez5s5tqwrhn96tl5v8m96vmvw0nju6c/программисты (2).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\717\0ez5s5tqwrhn96tl5v8m96vmvw0nju6c\программисты (2).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/72a/2f5ehibvnmgir04q82s35oktl6y9dxfl/Construct.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\72a\2f5ehibvnmgir04q82s35oktl6y9dxfl\Construct.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/73b/2s03o24d4xszv8lv4dqid1i0mzi41lhu/hands.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\73b\2s03o24d4xszv8lv4dqid1i0mzi41lhu\hands.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/758/4dtq79n7ty0cnwnb0y6xav976u2ht8ey/html.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\758\4dtq79n7ty0cnwnb0y6xav976u2ht8ey\html.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/76e/95xcnrwv18vov2nhuhlp1j7bhyl6awf1/Screenshot_7.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\76e\95xcnrwv18vov2nhuhlp1j7bhyl6awf1\Screenshot_7.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/770/p40lozx60spe4va2mnvurofho1xz42e6/partners1 1-1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\770\p40lozx60spe4va2mnvurofho1xz42e6\partners1 1-1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/780/0aw108p7m0vf5u1nhj5wcyaflg2q82ja/Без названия (43).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\780\0aw108p7m0vf5u1nhj5wcyaflg2q82ja\Без названия (43).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/784/ln3ln4ctgotszy2dz4hl6g9gfqmro2v6/wordpress.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\784\ln3ln4ctgotszy2dz4hl6g9gfqmro2v6\wordpress.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/7b0/lwq7mymn2k4w8gbadmvl4ibh87d22qr3/c-sharp-c-icon-456x512-9sej0lrz.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\7b0\lwq7mymn2k4w8gbadmvl4ibh87d22qr3\c-sharp-c-icon-456x512-9sej0lrz.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/7e1/d5ckx8sufk26p1pjayw9wku8vf3eiy3t/bg4.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\7e1\d5ckx8sufk26p1pjayw9wku8vf3eiy3t\bg4.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/7f0/ntuarv36oeaknyr48ppgz63zx0uewmr4/partners1 1-2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\7f0\ntuarv36oeaknyr48ppgz63zx0uewmr4\partners1 1-2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/811/fb12kpnjr3teqybuiti77riqjglfpeb2/преимущества 5.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\811\fb12kpnjr3teqybuiti77riqjglfpeb2\преимущества 5.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/813/deu8uxa9ol8m5llg7rdhgequaifrp8qz/des 1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\813\deu8uxa9ol8m5llg7rdhgequaifrp8qz\des 1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/83c/eo312msy8iddrgqyvmcg00p2r2bpim2w/программисты (4).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\83c\eo312msy8iddrgqyvmcg00p2r2bpim2w\программисты (4).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/841/v6mdl91fmdb47c8armihcxonlj9ptlw3/Adobe_After_Effects.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\841\v6mdl91fmdb47c8armihcxonlj9ptlw3\Adobe_After_Effects.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/845/p8hvanssxyqb60nqqgdla3x34me6al3t/shutterstock_2188181337.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\845\p8hvanssxyqb60nqqgdla3x34me6al3t\shutterstock_2188181337.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/878/lfqbegc1jiiydhms0b1kb15nvc2833d6/Без названия (31).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\878\lfqbegc1jiiydhms0b1kb15nvc2833d6\Без названия (31).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/88e/kpi7tu8d8r0n9oo1l3barbzfbjd2bz5h/Яна.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\88e\kpi7tu8d8r0n9oo1l3barbzfbjd2bz5h\Яна.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/890/9chthg75k1k9xj8r1knlm0i3flog6wx7/Без названия (15).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\890\9chthg75k1k9xj8r1knlm0i3flog6wx7\Без названия (15).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/8a0/nu9h5qgu55g6yji130zqhm11d11vxkz7/man.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\8a0\nu9h5qgu55g6yji130zqhm11d11vxkz7\man.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/8bd/han8ucpy58ea5tjo0dv5rc5i097vtz8t/Без названия (40).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\8bd\han8ucpy58ea5tjo0dv5rc5i097vtz8t\Без названия (40).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/8dc/qqwha61tv055064jyeq1i62qtlp11vt2/html css.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\8dc\qqwha61tv055064jyeq1i62qtlp11vt2\html css.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/8e8/31lol0lgxxc6sdzbkwp4irgx154a7dq4/roblox-logo-3CD7ECE135-seeklogo.com.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\8e8\31lol0lgxxc6sdzbkwp4irgx154a7dq4\roblox-logo-3CD7ECE135-seeklogo.com.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/8ed/a1ko8jvii0jmmdhe8if50moq3s12y993/преимущества 2.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\8ed\a1ko8jvii0jmmdhe8if50moq3s12y993\преимущества 2.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/8f4/w2fror661su6bhs4veajo9taxmb9lwqt/LEGO_logo.svg.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\8f4\w2fror661su6bhs4veajo9taxmb9lwqt\LEGO_logo.svg.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/91a/kred94kko4b1s2qdrhhpd9wasyqz947x/Android studio.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\91a\kred94kko4b1s2qdrhhpd9wasyqz947x\Android studio.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/91c/pdhz302enu31zslk5vinsv0a0m7epj43/bg1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\91c\pdhz302enu31zslk5vinsv0a0m7epj43\bg1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/957/zkhjz7dgcllf1bqw3tq630fvq758m4sa/Unreal_Engine-Logo.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\957\zkhjz7dgcllf1bqw3tq630fvq758m4sa\Unreal_Engine-Logo.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/95b/00t12x8v37w2aaxsleu1d9tj3nqu1tov/2023-03-16 14-30-05 (119).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\95b\00t12x8v37w2aaxsleu1d9tj3nqu1tov\2023-03-16 14-30-05 (119).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/960/bmmttbn5mnc2xwx1htir66fofra4d37c/partners1 1-8.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\960\bmmttbn5mnc2xwx1htir66fofra4d37c\partners1 1-8.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/97d/ilch47vpkloupifpd6spp2vx62omfa6r/с22.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\97d\ilch47vpkloupifpd6spp2vx62omfa6r\с22.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/991/e1hmj6pxz76l7hvukuuhlmm9tbqw6qk2/дети (4).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\991\e1hmj6pxz76l7hvukuuhlmm9tbqw6qk2\дети (4).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/9b5/piteph21wp8gjefxv7j3gbbw0k49tgd6/Без названия (16).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\9b5\piteph21wp8gjefxv7j3gbbw0k49tgd6\Без названия (16).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/9e3/8ed1cdurtenub0iu0zjtg867t714wouu/partners1 1-7.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\9e3\8ed1cdurtenub0iu0zjtg867t714wouu\partners1 1-7.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/a10/zuauswapxsbju20dw45ve6rtlb4u0a4t/преимущества 6.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\a10\zuauswapxsbju20dw45ve6rtlb4u0a4t\преимущества 6.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/a2e/3x3ipst67ju1hddq6plzdafwqsr9ezha/Без названия (38).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\a2e\3x3ipst67ju1hddq6plzdafwqsr9ezha\Без названия (38).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/a5f/c2nxdqi9a029nvw1dfi425ha878x0e7k/Adobe_XD_CC_icon.svg.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\a5f\c2nxdqi9a029nvw1dfi425ha878x0e7k\Adobe_XD_CC_icon.svg.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/a62/oneuvtjbe6t935nfrmhtzlppnuy9r3gj/Как-проходят1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\a62\oneuvtjbe6t935nfrmhtzlppnuy9r3gj\Как-проходят1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/a84/25z1iqznqwohi35172d3th8dxqf10dt5/базы данных.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\a84\25z1iqznqwohi35172d3th8dxqf10dt5\базы данных.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/a9a/z4er078y0n30v7hnm9b86pxac8yrqz2c/Без названия (18).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\a9a\z4er078y0n30v7hnm9b86pxac8yrqz2c\Без названия (18).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/a9d/q2mtndxamxxi6nesapjyn3ge2at58ywk/React-icon.svg.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\a9d\q2mtndxamxxi6nesapjyn3ge2at58ywk\React-icon.svg.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/aa8/ed7amky1atrrftta7lpvcxb4xrvzdm6a/12344.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\aa8\ed7amky1atrrftta7lpvcxb4xrvzdm6a\12344.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/ace/ggui84r2bqiyub7lrou33veoq37x3nfq/Влад.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ace\ggui84r2bqiyub7lrou33veoq37x3nfq\Влад.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/ae8/9rv5oeo2q7auy7qlg05qfmvvztn793uv/прог 1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ae8\9rv5oeo2q7auy7qlg05qfmvvztn793uv\прог 1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/b0d/ugw714v694u7rwc1wgos092on4aqaj2q/child-light-skin-tone-1968.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\b0d\ugw714v694u7rwc1wgos092on4aqaj2q\child-light-skin-tone-1968.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/b10/lmdak6899033dc4dsdcbtb0jpo3zpewa/partners1 1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\b10\lmdak6899033dc4dsdcbtb0jpo3zpewa\partners1 1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/b87/hjgizl6vxr3zdp2buawt507sru0ccqna/js.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\b87\hjgizl6vxr3zdp2buawt507sru0ccqna\js.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/b96/m503frjud2zxcy09nmh02grg9vi46j1g/Typescript.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\b96\m503frjud2zxcy09nmh02grg9vi46j1g\Typescript.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/bb8/056g4v0yi4epzvrlre9cnr03zke2cszr/Без названия (35).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\bb8\056g4v0yi4epzvrlre9cnr03zke2cszr\Без названия (35).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/bbb/xwyk9tahpe0tpkxckuimwd8wfuaafeg6/Zbrush.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\bbb\xwyk9tahpe0tpkxckuimwd8wfuaafeg6\Zbrush.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/bbe/wfhhehp89n04yxy8y7176ufdwqv8s9ge/Blender_logo_no_text.svg.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\bbe\wfhhehp89n04yxy8y7176ufdwqv8s9ge\Blender_logo_no_text.svg.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/be2/zkr9oe5szfym9yya6vp253dtst0isfqp/Без названия (33).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\be2\zkr9oe5szfym9yya6vp253dtst0isfqp\Без названия (33).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/c0e/wxyz0t48zkenao92xva240e48r0q7gcf/Adobe_Photoshop_CC_icon.svg.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\c0e\wxyz0t48zkenao92xva240e48r0q7gcf\Adobe_Photoshop_CC_icon.svg.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/c41/o6uepfumojn99n7iucu72iijsbxtmj6s/icons8-искусственный-интеллект-96.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\c41\o6uepfumojn99n7iucu72iijsbxtmj6s\icons8-искусственный-интеллект-96.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/c78/tbxbbw050281b7o2d7ggl5qf12rw2cb6/node-js.webp
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\c78\tbxbbw050281b7o2d7ggl5qf12rw2cb6\node-js.webp
+Content Type: image/webp
+
+Uri: https://klgd.cifra.digital/upload/iblock/c84/bwascjh5wazpvzbpujugn8ky10a05rmg/дети (3).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\c84\bwascjh5wazpvzbpujugn8ky10a05rmg\дети (3).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/caa/zr4igi788mtaenk8353724w87u73byx9/logos_javascript.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\caa\zr4igi788mtaenk8353724w87u73byx9\logos_javascript.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/cbb/1gz6ytyxjur120glfb52alf0sd3yxpzd/преимущества 4.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\cbb\1gz6ytyxjur120glfb52alf0sd3yxpzd\преимущества 4.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/cc5/pzvepnnbhxmt10psgo0awni830owjr10/uxui.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\cc5\pzvepnnbhxmt10psgo0awni830owjr10\uxui.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/ce7/ykfpqa41oc6kvsnpac5x5dd99ifguhac/Figma-1-logo.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ce7\ykfpqa41oc6kvsnpac5x5dd99ifguhac\Figma-1-logo.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/ce9/fd7ffc9h2izc14f688cf993ogbzaysx0/033.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ce9\fd7ffc9h2izc14f688cf993ogbzaysx0\033.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/d10/dnjmpb0b3gqm2mvj8dtuagp0h34iiegq/Pixel_Art.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d10\dnjmpb0b3gqm2mvj8dtuagp0h34iiegq\Pixel_Art.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/d15/08doqckxnnenh97srnl72uoq9koz51cy/Влад.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d15\08doqckxnnenh97srnl72uoq9koz51cy\Влад.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/d17/1sj3ep54eoog3vnhiyw145tzwf9l24jf/kodu mini.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d17\1sj3ep54eoog3vnhiyw145tzwf9l24jf\kodu mini.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/d1c/zvdb5ub4t957cqatxi4d8fvr1y4vqbem/Screenshot_6.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d1c\zvdb5ub4t957cqatxi4d8fvr1y4vqbem\Screenshot_6.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/d23/gllo9eollgfrv3elp0g4g65zogsfls5q/about1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d23\gllo9eollgfrv3elp0g4g65zogsfls5q\about1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/d43/i02vtlef413sm3iqed1kg14k2b377y7k/2023-03-16 14-30-05 (217).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d43\i02vtlef413sm3iqed1kg14k2b377y7k\2023-03-16 14-30-05 (217).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/d67/plggtfmy8af9xjvq82k4703hneeib2ya/Фигура-213.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d67\plggtfmy8af9xjvq82k4703hneeib2ya\Фигура-213.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/d75/izg9mh4asy82eh79rn5ow1hokh9lqx1s/Без названия (6).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\d75\izg9mh4asy82eh79rn5ow1hokh9lqx1s\Без названия (6).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/da8/51xcl22sbkc8is4wei8wpcje9tq9ugtq/2023-03-16 16-06-22 (242).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\da8\51xcl22sbkc8is4wei8wpcje9tq9ugtq\2023-03-16 16-06-22 (242).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/dba/i6lk16y5vz4dm6ud1dmstb5a6h4n3nq0/Scratch+icon.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\dba\i6lk16y5vz4dm6ud1dmstb5a6h4n3nq0\Scratch icon.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/de9/zim2xkgf7dk6hetoef2gfo002368p4qp/autodesk-maya.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\de9\zim2xkgf7dk6hetoef2gfo002368p4qp\autodesk-maya.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/e0f/g894zizv1i890q6477f27bslgcznvcl4/mouse.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\e0f\g894zizv1i890q6477f27bslgcznvcl4\mouse.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/e36/iqaqgn3ffvtcm86gbl1uc1005de62ykw/css.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\e36\iqaqgn3ffvtcm86gbl1uc1005de62ykw\css.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/e55/62s3bhfegt7h1drblm82glbs9htksl6j/Без названия (6).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\e55\62s3bhfegt7h1drblm82glbs9htksl6j\Без названия (6).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/e6e/jb34o3mzd2prx7ia4cdt26kf7ykqak3s/Без названия (7).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\e6e\jb34o3mzd2prx7ia4cdt26kf7ykqak3s\Без названия (7).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/e77/j0bfwli209b1qd4qv1n0cgya6mxzp5zf/Adobe_Photoshop_Lightroom_CC_logo.svg.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\e77\j0bfwli209b1qd4qv1n0cgya6mxzp5zf\Adobe_Photoshop_Lightroom_CC_logo.svg.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/e98/8q9077cfq0lrqpyldjjub2swbd50ycmd/Без названия (36).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\e98\8q9077cfq0lrqpyldjjub2swbd50ycmd\Без названия (36).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/ea2/btrh18ks5f6wvuuw8rr3ufsqi3l23sag/shutterstock_2067577502.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ea2\btrh18ks5f6wvuuw8rr3ufsqi3l23sag\shutterstock_2067577502.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/eb7/ejxq8tp30tqz1ys49iefr79qwt396ltf/преимущества 3.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\eb7\ejxq8tp30tqz1ys49iefr79qwt396ltf\преимущества 3.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/eb7/pwn5igt6v677ym0l9kchnanx60smll6n/преимущества 1.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\eb7\pwn5igt6v677ym0l9kchnanx60smll6n\преимущества 1.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/ed5/0jk5vsbg560lcelgii6zht64jadsr03f/2023-03-16 14-30-05 (186).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ed5\0jk5vsbg560lcelgii6zht64jadsr03f\2023-03-16 14-30-05 (186).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/ef3/5gcztm3jii29hsr2keqf2ay3uz5fd4y0/photo_2023-03-19_18-13-45.jpg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ef3\5gcztm3jii29hsr2keqf2ay3uz5fd4y0\photo_2023-03-19_18-13-45.jpg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/f02/jrsompz0dqqrzx7hab12lw6ro1lmy3gb/about3.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\f02\jrsompz0dqqrzx7hab12lw6ro1lmy3gb\about3.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/f1c/2498ecenga80dv5irbzbs234ifara7wk/Adobe-premiere.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\f1c\2498ecenga80dv5irbzbs234ifara7wk\Adobe-premiere.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/f2a/0hensrhdh10walpy6h4xt9mkle2tcwp7/Unity_Logo.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\f2a\0hensrhdh10walpy6h4xt9mkle2tcwp7\Unity_Logo.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/f38/mnxcl9am77o2we4cmofd42y8lqkxyvt4/about4.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\f38\mnxcl9am77o2we4cmofd42y8lqkxyvt4\about4.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/f54/g7hmjnne9okeqifywmn46tnc98re0d8n/java.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\f54\g7hmjnne9okeqifywmn46tnc98re0d8n\java.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/f6f/sfu5hub3wuk4s97l76vclj8mdvkpa31v/partners1 1-4.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\f6f\sfu5hub3wuk4s97l76vclj8mdvkpa31v\partners1 1-4.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/f9d/gclsqaxbq75othr5g76p4l3yaatm5wub/Без названия (32).png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\f9d\gclsqaxbq75othr5g76p4l3yaatm5wub\Без названия (32).png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/fa4/621zq9f11ztor48nanimdmb28uero8s8/2023-03-16 16-06-22 (236).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\fa4\621zq9f11ztor48nanimdmb28uero8s8\2023-03-16 16-06-22 (236).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/faa/ekqblqeyg18dsd9d8ow6y84wn5skj7gz/Cinema-4D-Logo.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\faa\ekqblqeyg18dsd9d8ow6y84wn5skj7gz\Cinema-4D-Logo.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/fcc/fveou4s82lhq21mi95iv7vkwqb72hlgy/Badge-MITAPP.png
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\fcc\fveou4s82lhq21mi95iv7vkwqb72hlgy\Badge-MITAPP.png
+Content Type: image/png
+
+Uri: https://klgd.cifra.digital/upload/iblock/ff4/l1cv7qenz96cb90wc5rnjfjaxp96uzqp/2023-03-16 16-06-22 (293).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ff4\l1cv7qenz96cb90wc5rnjfjaxp96uzqp\2023-03-16 16-06-22 (293).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/iblock/ff7/1tlyp6njpxz7eqocdgbpm27hav98dudr/2023-03-16 14-30-05 (27).jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\iblock\ff7\1tlyp6njpxz7eqocdgbpm27hav98dudr\2023-03-16 14-30-05 (27).jpeg
+Content Type: image/jpeg
+
+Uri: https://klgd.cifra.digital/upload/medialibrary/c8e/bc4qmqn7k1ipvkhc39kjmlvwtmu3nmik/place_of_study1.jpeg
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\upload\medialibrary\c8e\bc4qmqn7k1ipvkhc39kjmlvwtmu3nmik\place_of_study1.jpeg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/90722745
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\watch\90722745
+Content Type: image/gif
+
+Uri: https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1564143-aOgID"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript>
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\js\api\openapi.js
+Content Type: application/x-javascript
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1686087-4Nqdr
+File Name: C:\Users\Slame\Desktop\Цифра сайт\klgd.cifra.digital\rtrg
+Content Type: image/gif
+

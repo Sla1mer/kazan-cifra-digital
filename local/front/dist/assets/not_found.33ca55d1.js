@@ -1,0 +1,1 @@
+import{u as o}from"./_discount-block.f6a3f92a.js";import"./_general_scripts.4e20f1e4.js";function t(){import("data:text/javascript,")}document.addEventListener("DOMContentLoaded",()=>{o()});export{t as __vite_legacy_guard};

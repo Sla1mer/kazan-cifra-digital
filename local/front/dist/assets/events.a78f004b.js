@@ -1,0 +1,1 @@
+import{u as e,D as t}from"./_discount-block.f6a3f92a.js";import"./_general_scripts.4e20f1e4.js";function o(){import("data:text/javascript,")}document.addEventListener("DOMContentLoaded",()=>{Promise.allSettled([e(t.green)])});export{o as __vite_legacy_guard};
