@@ -1,6 +1,6 @@
 const url = 'https://portal.cifra.digital/rest/1/3ecxb2bgmz4kty3k/crm.lead.add';
 
-document.getElementById("promo_submit").addEventListener("submit", function (event) {
+document.getElementById("promo_submit").addEventListener("click", function (event) {
     event.preventDefault();
 
     const name_lid = (document.getElementById("input-name") as HTMLInputElement).value;
